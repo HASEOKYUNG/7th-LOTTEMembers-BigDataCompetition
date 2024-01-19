@@ -2,7 +2,7 @@
 
 |기간|Tags|역할|
 |:---:|:---:|:---:|
-|2022.07. ~ 2022.08.| AssociationRuleAnalysis, TimeSeriesAnalysis |팀원, 구매 시기 예측 모델 및 ESG 지표 개발|
+|2022.07. ~ 2022.08.| AssociationRuleAnalysis, TimeSeriesAnalysis |팀원, 시계열 예측 모델 및 ESG 지표 개발|
 
 ## 프로젝트 요약
 - 롯데멤버스 고객 정보 데이터, 구매 및 서비스 이용 내역 데이터를 활용해 머신러닝 기반 상품 추천 서비스와 ESG 마케팅 전략을 수립했다.   
