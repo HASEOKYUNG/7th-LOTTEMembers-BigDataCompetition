@@ -1,4 +1,4 @@
-# 제 7회 롯데멤버스 빅데이터 경진대회
+![CRM](https://github.com/HASEOKYUNG/7th-LOTTEMembers-BigDataCompetition/assets/104245855/b4bdd534-710d-45b8-9994-93c870f46f51)# 제 7회 롯데멤버스 빅데이터 경진대회
 
 |기간|Tags|역할|
 |:---:|:---:|:---:|
@@ -14,7 +14,9 @@
 - 롯데의 ESG 경영을 위해 구매별 ESG score를 산출하고 이를 마일리지로 Lpay와 연동해 Lpay 활성화까지 유도한다.
 
 #### 2. 데이터 설명
+<p align="center">
 <img width="310" alt="LOTTE" src="https://github.com/HASEOKYUNG/7th-LOTTEMembers-BigDataCompetition/assets/104245855/1d08ae6a-b332-45a9-b364-2c22a75f543c">
+</p>
 
 #### 3. 데이터 전처리
 - 상품 구매 규칙을 도출하기 위해 거래당 상품 항목 종류수가 1개인 데이터는 제거한다.
