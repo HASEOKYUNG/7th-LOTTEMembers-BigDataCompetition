@@ -1,4 +1,4 @@
-![CRM](https://github.com/HASEOKYUNG/7th-LOTTEMembers-BigDataCompetition/assets/104245855/b4bdd534-710d-45b8-9994-93c870f46f51)# 제 7회 롯데멤버스 빅데이터 경진대회
+# 제 7회 롯데멤버스 빅데이터 경진대회
 
 |기간|Tags|역할|
 |:---:|:---:|:---:|
